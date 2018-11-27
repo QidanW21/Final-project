@@ -10,3 +10,9 @@ What's the potential relationship between vegetation growth over the Tibetan Pla
 NDVI:https://ecocast.arc.nasa.gov/data/pub/gimms/3g.v1/;  https://iridl.ldeo.columbia.edu/SOURCES/.UMD/.GLCF/.GIMMS/.NDVIg/.global/.ndvi/
 ENSO:http://iridl.ldeo.columbia.edu/SOURCES/.KAPLAN/.EXTENDED/.v2/.ssta/
 Temp &Prcp data are from the lab during my undergraduate and they are in .mat format.
+
+
+
+
+binder badge:
+https://mybinder.org/v2/gh/QidanW21/Final-project/master
