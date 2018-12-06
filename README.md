@@ -1,4 +1,4 @@
-# Final-project
+# Final-project Outline
 ## Scientific question
 What's the potential relationship between vegetation growth over the Tibetan Plateau and large-scale climate variability (ENSO)?
 ## Summary
@@ -16,3 +16,5 @@ Temp &Prcp data are from the lab during my undergraduate and they are in .mat fo
 
 binder badge:
 https://mybinder.org/v2/gh/QidanW21/Final-project/master
+
+The final project is saved in 'pre_project.ipynb' and all data are stored in repo.
